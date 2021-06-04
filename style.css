@@ -1,5 +1,8 @@
+body ,.container{
+    background-color: lightgray;
+}
 div>.row {
-    border: 1px solid lightgray;
+    border: 1px solid darkgray;
 }
 a{
     text-decoration: none;
