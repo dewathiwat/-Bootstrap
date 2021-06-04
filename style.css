@@ -1,0 +1,24 @@
+div>.row {
+    border: 1px solid lightgray;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+    color: gray ;
+    
+    
+}
+.ma{
+    boder: 10% ;
+    margin-top: 20%;
+    text-align: center;
+}
+.sh{
+    margin: top 75px; ;
+}
+.fixhight{
+    height: 150px;
+}
